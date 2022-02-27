@@ -1,6 +1,6 @@
 # EntregaRecursividad
 Mi dirección de GitHub para este repositorio es la siguiente: [GitHub](https://github.com/alexlomu/EntregaRecursividad)
-https://github.com/alexlomu/EntregaRecursividad
+https://github.com/alexlomu/EntregaRecursividad.
 Hemos resuelto diversos ejercicios de recursividad:
 # Ejercicio 1: Búsqueda por dicotomía en una tabla ordenada
 En este ejercicio nos piden crear un algoritmo en el que dada una tabla ordenada podamos comprobar si ese elemento forma parte de la tabla. El código es el siguiente:
